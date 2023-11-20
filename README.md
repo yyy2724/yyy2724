@@ -1,7 +1,5 @@
 # YangHyeon
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyy2724&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyy2724&layout=compact)](https://github.com/yyy2724/github-readme-stats)
