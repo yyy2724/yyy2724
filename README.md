@@ -44,6 +44,9 @@
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" /> <img src="https://img.shields.io/badge/EC2-%23E34F26.svg?&style=for-the-badge&logo=EC2&logoColor=white" />
 <img src="https://img.shields.io/badge/S3-%23232F3E.svg?&style=for-the-badge&logo=S3&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-%23F7DF1E.svg?&style=for-the-badge&logo=RDS&logoColor=black" />
 
+### Version Controller
+<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+
 <div align="center">
   
 <!-- most used language -->
