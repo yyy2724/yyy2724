@@ -3,13 +3,18 @@
 
 
 <!-- TASTEYOM -->
-## <a href="https://github.com/yyy2724/project1/"> :meat_on_bone:project1(클릭시 이동) </a>
+## <a href="https://github.com/yyy2724/project1/"> 🥇 :project1(클릭시 이동) </a>
 <div align="center">
 
 ![image](https://github.com/yyy2724/yyy2724/assets/93104606/73576d9d-dd33-4c8c-a6fe-45d53a3aaf6c)
 
   
 </div>
+
+## <a href="https://github.com/yyy2724/project2-3/"> 🥈 :project2-3(클릭시 이동)> </a>
+
+![image](https://github.com/yyy2724/yyy2724/assets/93104606/21469dfa-833d-405f-a01c-3c1bbad248df)
+
 
 - This is my FIRST PROJECT
 - Full Stack developed
