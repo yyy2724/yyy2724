@@ -37,6 +37,13 @@
 ### Authentication/Authorization
 <img src="https://img.shields.io/badge/Spring Security-%23007396.svg?&style=for-the-badge&logo=Spring Security&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth2.0-3776AB?style=for-the-badge&logo=OAuth2.0&logoColor=white">
 
+### Library
+<img src="https://img.shields.io/badge/lombok-%23F80000.svg?&style=for-the-badge&logo=lombok&logoColor=white" />
+
+### AWS
+<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" /> <img src="https://img.shields.io/badge/EC2-%23E34F26.svg?&style=for-the-badge&logo=EC2&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-%23232F3E.svg?&style=for-the-badge&logo=S3&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-%23F7DF1E.svg?&style=for-the-badge&logo=RDS&logoColor=black" />
+
 <div align="center">
   
 <!-- most used language -->
