@@ -14,6 +14,9 @@
 - Full Stack developed
 
 ------
+
+
+## :meat_on_bone:STACK 
 <!-- Language -->
 ### Main Lanauage
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
