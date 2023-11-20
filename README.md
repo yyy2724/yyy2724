@@ -25,14 +25,14 @@
 ### Template Engine
 <img src="https://img.shields.io/badge/thymeleaf-%23005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white" /> <img src="https://img.shields.io/badge/JSP-3776AB?style=for-the-badge&logo=JSP&logoColor=white">
 
-### Publish
-<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
-
 ### DataBase
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### JPA
 <img src="https://img.shields.io/badge/JPA-%23232F3E.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
+
+### Authentication/Authorization
+<img src="https://img.shields.io/badge/Spring Security-%23007396.svg?&style=for-the-badge&logo=Spring Security&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth2.0-3776AB?style=for-the-badge&logo=OAuth2.0&logoColor=white">
 
 <div align="center">
   
