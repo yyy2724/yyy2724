@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### JPA
-<img src="https://img.shields.io/badge/JPA-black.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-%23232F3E.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 
 <div align="center">
   
