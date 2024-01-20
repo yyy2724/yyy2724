@@ -8,6 +8,8 @@
 
 ![image](https://github.com/yyy2724/yyy2724/assets/93104606/73576d9d-dd33-4c8c-a6fe-45d53a3aaf6c)
 
+- 첫 번째 포트폴리오 입니다. 마켓컬리를 벤치마킹한 홈쇼핑입니다.
+- 기본에 충실하였습니다.
   
 </div>
 
@@ -15,10 +17,16 @@
 
 ![image](https://github.com/yyy2724/yyy2724/assets/93104606/21469dfa-833d-405f-a01c-3c1bbad248df)
 
+- 2-3번째 프로젝트 입니다. 프리랜서와 업체를 매치시키는 웹 서비스입니다.
+- 첫 번째 프로젝트에 비해 다양한 기능에 도전하였습니다.
 
-- This is my FIRST PROJECT
-- Full Stack developed
 
+## <a href="https://github.com/yyy2724/MovingMate/"> ## :sparkles:  :MovingMate(클릭시 이동)> </a>
+
+![image](https://github.com/yyy2724/yyy2724/assets/93104606/21469dfa-833d-405f-a01c-3c1bbad248df)
+
+- 4번째 프로젝트, 이 프로젝트는 개인 프로젝트입니다.
+- 첫 번째 프로젝트에 비해 다양한 기능에 도전하였습니다.
 ------
 
 
