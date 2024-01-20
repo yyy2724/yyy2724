@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<a href="https://github.com/yyy2724/MovingMate/"> ## :sparkles:  :MovingMate(클릭시 이동)> </a>
+<summary><a href="https://github.com/yyy2724/MovingMate/"> ## :sparkles:  :MovingMate(클릭시 이동)> </a></summary>
 
 ![이사신청, 찾기](https://github.com/yyy2724/yyy2724/assets/93104606/fab54db1-1ffd-46e7-96f7-5a39c9a67cf4)
 
