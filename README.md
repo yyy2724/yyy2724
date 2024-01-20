@@ -3,6 +3,7 @@
 
 
 <!-- TASTEYOM -->
+## :meat_on_bone:Project
 <details>
 <summary><a href="https://github.com/yyy2724/project1/"> 🥇 :project1(클릭시 이동) </a></summary>
 <div align="center">
