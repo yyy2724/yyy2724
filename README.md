@@ -7,6 +7,9 @@
 <div align="center">
 
 ![image](https://github.com/yyy2724/yyy2724/assets/93104606/73576d9d-dd33-4c8c-a6fe-45d53a3aaf6c)
+<br><br>
+![기본 CRUD](https://github.com/yyy2724/yyy2724/assets/93104606/a60e8479-e649-4985-a850-d87ce35f4f39)
+
 
 - 첫 번째 포트폴리오 입니다. 마켓컬리를 벤치마킹한 홈쇼핑입니다.
 - 기본에 충실하였습니다.
