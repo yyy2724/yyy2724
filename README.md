@@ -3,7 +3,8 @@
 
 
 <!-- TASTEYOM -->
-## <a href="https://github.com/yyy2724/project1/"> 🥇 :project1(클릭시 이동) </a>
+<details>
+##<summary> <a href="https://github.com/yyy2724/project1/"> 🥇 :project1(클릭시 이동) </a></summary>
 <div align="center">
 
 ![image](https://github.com/yyy2724/yyy2724/assets/93104606/73576d9d-dd33-4c8c-a6fe-45d53a3aaf6c)
@@ -15,6 +16,7 @@
 - 기본에 충실하였습니다.
   
 </div>
+</details>
 
 ## <a href="https://github.com/yyy2724/project2-3/"> 🥈 :project2-3(클릭시 이동)> </a>
 
