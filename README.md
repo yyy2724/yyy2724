@@ -23,7 +23,7 @@
 
 ## <a href="https://github.com/yyy2724/MovingMate/"> ## :sparkles:  :MovingMate(클릭시 이동)> </a>
 
-![image](https://github.com/yyy2724/yyy2724/assets/93104606/21469dfa-833d-405f-a01c-3c1bbad248df)
+![Uploading 이사신청, 찾기.gif…]()
 
 - 4번째 프로젝트, 이 프로젝트는 개인 프로젝트입니다.
 - 첫 번째 프로젝트에 비해 다양한 기능에 도전하였습니다.
